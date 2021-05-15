@@ -7,4 +7,6 @@ The program creates a wordlist.txt file in the folder.
 
 Fell free to contact me via email: danfaldev@gmail.com.
 
+WLC is now implemented to [another project](https://github.com/Dan149/Wifi-Hacking).
+
 **to make bitcoin donations, you can send bitcoin to this BTC adress: 1EvL9BCEGwfwL8UpEQE71SgARB5imzFUax**
