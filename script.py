@@ -1,5 +1,6 @@
 import time
 import os
+import pathlib
 from wlc import wdlist
 from wlc import clear
 from wlc import color
