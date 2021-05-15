@@ -5,6 +5,6 @@ Exemple: | __word: sacha__ | __password: 123sacha, 1234sacha, 0293sacha, 123Sach
 
 The program creates a wordlist.txt file in the folder.
 
-To get full and early updates, you can contact me trougth danfaldev@gmail.com to buy the premium life-time access.
+Fell free to contact me via email: danfaldev@gmail.com
 
 **to make bitcoin donations, you can send bitcoin to this BTC adress: 1EvL9BCEGwfwL8UpEQE71SgARB5imzFUax**
